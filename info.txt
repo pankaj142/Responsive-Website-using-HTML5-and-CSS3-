@@ -1,2 +1,3 @@
 It is a responsive web site with HTML5 and CSS3.
+You can check it's responsiveness by changing size of your browser i.e mobile and tab size
 It is only front end. No backend.
