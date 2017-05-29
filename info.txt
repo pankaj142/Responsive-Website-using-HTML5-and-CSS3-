@@ -1,4 +1,2 @@
 It is a responsive web site with HTML5 and CSS3.
-It looks good on devices with various screen sizes. 
-
-video: Build An HTML5 Website With A Responsive Layout
+It is only front end. No backend.
